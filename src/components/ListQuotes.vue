@@ -7,7 +7,6 @@
                 <th>Máximo</th>
                 <th>Mínimo</th>
                 <th>Variação</th>
-                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -27,7 +26,6 @@
                         {{ quote.pctChange }}%
                     </span>
                 </td>
-                <td>{{ key }}</td>
             </tr>
         </tbody>
     </table>

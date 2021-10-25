@@ -6,6 +6,6 @@ const api = axios.create({
 
 export default {
     all() {
-        return api.get('/all')
+        return api.get('/last/USD-BRL,EUR-BRL,BTC-BRL')
     }
 }
