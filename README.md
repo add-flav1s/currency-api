@@ -4,6 +4,7 @@
 
 - VueJS 3
 - Spectre CSS
+- Api de Moedas
 
 ## Recursos utilizados
 
@@ -37,7 +38,7 @@ npm add axios
 
 ### Entre no repositório
 
-\$ cd counter-with-vuejs
+\$ cd currency-api
 
 ### Instale as dependências
 
